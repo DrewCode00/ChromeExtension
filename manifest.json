@@ -1,0 +1,12 @@
+{
+"manifest_version": 2,
+"name":"Evolved Launcher",
+"description":"Quick launch Evolved",
+"version":"1.0.0",
+"icons":{"200": "icon.png" },
+"browser_action":{
+    "default_icon":"icon.png",
+    "default_popup":"popup.html"
+},
+"permission":["activeTab"]
+}
